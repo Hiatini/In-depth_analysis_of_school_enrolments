@@ -23,4 +23,4 @@ We find that among the three best academies in terms of student recruitment for 
 
 ![Capture d’écran 2023-11-18 à 10 52 39](https://github.com/Hiatini/In-depth_analysis_of_school_enrolments/assets/101217055/65bf14b6-9d3b-4376-b2bb-a9070efdbb0d)
 
-
+We note that among the top three academies in terms of student recruitment for the 2020-2021 school year and the 2019-2020 school year, there is a predominance of the number of girls over boys.
